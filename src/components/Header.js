@@ -12,8 +12,7 @@ function Header() {
         
         <nav class="nav">
             <ul class="menu">
-                <li><a href="<Login/>">Sign Up</a></li>
-                <li><a href="#">Locgin</a> </li>
+                <li><a href="<Login/>">Sign In</a></li>
                 <li><a href="#">Contact Us</a></li>
             </ul>
         </nav>
